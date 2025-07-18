@@ -1,63 +1,90 @@
-<h1 align="center">Hey there 👋, I'm Ranjan Kumar</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Stack | AI Project Builder | DSA Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Ranjan Kumar</h1>
+<h3 align="center">Frontend Developer | MERN Stack Enthusiast | Problem Solver</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Building+Full-stack+Web+Apps;Passionate+Frontend+Engineer;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🔥 About Me
+### 📬 Connect with me:
 
-- 🧑‍💻 I'm currently building **production-grade full-stack MERN apps**
-- 💡 Projects like **FindMyFlat**, **AI Trip Planner**, and **Diet Tracker** to solve real-world problems
-- 🛡️ Implemented features like role-based auth, JWT, Cloudinary uploads, booking systems, admin panels
-- 📚 Solving DSA problems for placements and sharpening backend & system design
-- 💼 Looking for **full-time web development roles** or **internships**
+[![LinkedIn](https://img.shields.io/badge/-Ranjan%20Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ranjan-18)](https://linkedin.com/in/ranjan-18)
+[![Gmail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:youremail@example.com)
 
 ---
 
-### 🛠️ Tech Stack
+### 💼 Tech Stack:
 
-| Frontend     | Backend       | Database   | Tools & DevOps     |
-|--------------|---------------|------------|--------------------|
-| React, Tailwind CSS | Node.js, Express | MongoDB | Git, GitHub, Postman |
-| Redux Toolkit (soon) | JWT, Google OAuth | Mongoose | Cloudinary, Render, Vercel |
+#### 🚀 Frontend:
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat-square)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=fff&style=flat-square)
+
+#### ⚙️ Backend:
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=flat-square)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=fff&style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat-square)
+
+#### 🧰 Tools & Platforms:
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat-square)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=flat-square)
+![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=000&style=flat-square)
+![Vercel](https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=fff&style=flat-square)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff&style=flat-square)
 
 ---
 
-### 🔥 Projects
+### 🧑‍💻 Projects
 
-| Project | Description | Live | Repo |
-|--------|-------------|------|------|
-| 🏠 **FindMyFlat** | Full-stack room/flat sharing platform with role-based login (Admin/Owner/Tenant), listings, image uploads, booking system & reviews | [Live Demo](https://findmyflat.vercel.app) | [GitHub](https://github.com/ranjan-18/findmyflate) |
-| ✍️ Notes & Bookmark Manager | Save notes with tags, search bookmarks with filters, authentication and user dashboard | Coming Soon | Coming Soon |
-| 🧳 AI Trip Planner (WIP) | AI-based trip planner with bill-splitting, cost estimator, Google Maps, emergency features, and chatbot assistant | Coming Soon | Coming Soon |
+| 🚀 Project | Description | Tech Stack | Demo |
+|-----------|-------------|------------|------|
+| 🏘️ **FindMyFlat** | Roommate/Flat Finder with Google Auth, Review System, Booking, Admin Panel | MERN, Tailwind, Cloudinary | [Live](#) • [Code](#) |
+| 🗂️ **Notes & Bookmark Manager** | Save, search, and organize notes and bookmarks with login auth | MERN, Next.js | [Live](#) • [Code](#) |
+| 🗳️ **Secure Voting System** | Aadhaar-based one-time voting app with admin dashboard | Node.js, MongoDB | [Code](#) |
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranjan-18&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjan-18&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ranjan-18&show_icons=true&theme=radical" alt="stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjan-18&layout=compact&theme=radical" alt="langs" />
 </p>
 
 ---
 
-### 📫 Let's Connect!
+### 🏆 GitHub Trophies
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ranjan18/)
-- 📬 Email: ranjankumar.dev@gmail.com *(replace with your email if needed)*
-- 🖥️ Portfolio: Coming soon...
-
----
-
-### 🧠 Current Goals
-
-- ⏳ Solve 200+ DSA problems before placements
-- ✅ Finish 3 major full-stack projects
-- 🛠️ Contribute to open source or real-world freelance work
-- 📄 Improve resume and build strong portfolio website
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ranjan-18&theme=gruvbox&no-frame=true&margin-w=5" />
+</p>
 
 ---
 
-> “Consistency beats intensity. One commit a day builds a future full of potential.”  
-> — You, the next amazing developer.
+### 🌱 I’m Currently Learning
+
+- 🔐 Authentication (JWT, OAuth)
+- 🧠 Data Structures & Algorithms (for placement prep)
+- 🧑‍💼 System Design & Project Architecture
+
+---
+
+### 🎯 2025 Goals
+
+- ✅ Build 5+ Production-level MERN Projects  
+- 💼 Land a Frontend/Web Developer Role  
+- 🤝 Contribute to Open Source  
+- 🧪 Master DSA + System Design
+
+---
+
+**Thanks for visiting my profile! 🙏**
+
+> _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
+
+---
 
