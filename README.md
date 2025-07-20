@@ -9,8 +9,8 @@
 
 ### 📬 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/-Ranjan%20Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ranjan-18)](https://linkedin.com/in/ranjan-18)
-[![Gmail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/-Ranjan%20Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ranjan-mern-dev/)  
+[![Gmail](https://img.shields.io/badge/-ranjankr8818@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:ranjankr8818@gmail.com)
 
 ---
 
