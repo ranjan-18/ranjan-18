@@ -9,7 +9,7 @@
 
 ### 📬 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/-Linkedin%20-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ranjan-mern-dev/)  
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ranjan-mern-dev/)  
 [![Gmail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:ranjankr8818@gmail.com)
 
 ---
