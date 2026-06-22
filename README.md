@@ -1,90 +1,190 @@
-<h1 align="center">Hi 👋, I'm Ranjan Kumar</h1>
-<h3 align="center">Frontend Developer | MERN Stack Enthusiast | Problem Solver</h3>
+<div align="center">
+
+# Hey there! 👋 I'm Ranjan Kumar
+
+### Software Development Engineer Intern @ Deloitte | Full Stack Developer | Problem Solver
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Scalable+Full+Stack+Applications;MERN+Stack+%7C+Spring+Boot+Developer;600%2B+DSA+Problems+Solved;Always+Learning+New+Technologies" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=ranjan-18&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views"/>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+🎓 B.Tech in Computer Engineering @ IIIT Bhubaneswar (2022 - 2026)
+
+💼 Software Development Engineer Intern @ Deloitte
+
+🌱 Currently exploring:
+- System Design
+- Spring Boot Microservices
+- Advanced DSA
+- Cloud & DevOps
+
+⚡ Fun Fact:
+- Solved **600+ DSA problems**
+- Passionate about building scalable web applications
+- Love transforming ideas into products
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Building+Full-stack+Web+Apps;Passionate+Frontend+Engineer;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
+<a href="mailto:ranjankr8818@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ranjan-mern-dev/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ranjan-18">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-### 📬 Connect with me:
+# 💻 Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ranjan-mern-dev/)  
-[![Gmail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:ranjankr8818@gmail.com)
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs" />
+</p>
 
----
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
+</p>
 
-### 💼 Tech Stack:
+### Database
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+</p>
 
-#### 🚀 Frontend:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat-square)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=fff&style=flat-square)
-
-#### ⚙️ Backend:
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=flat-square)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=fff&style=flat-square)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat-square)
-
-#### 🧰 Tools & Platforms:
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat-square)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=flat-square)
-![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=000&style=flat-square)
-![Vercel](https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=fff&style=flat-square)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff&style=flat-square)
-
----
-
-### 🧑‍💻 Projects
-
-| 🚀 Project | Description | Tech Stack | Demo |
-|-----------|-------------|------------|------|
-| 🏘️ **FindMyFlat** | Roommate/Flat Finder with Google Auth, Review System, Booking, Admin Panel | MERN, Tailwind, Cloudinary | [Live](#) • [Code](#) |
-| 🗂️ **Notes & Bookmark Manager** | Save, search, and organize notes and bookmarks with login auth | MERN, Next.js | [Live](#) • [Code](#) |
-| 🗳️ **Secure Voting System** | Aadhaar-based one-time voting app with admin dashboard | Node.js, MongoDB | [Code](#) |
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranjan-18&show_icons=true&theme=radical" alt="stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjan-18&layout=compact&theme=radical" alt="langs" />
+### Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,netlify" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+# 💼 Experience
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ranjan-18&theme=gruvbox&no-frame=true&margin-w=5" />
-</p>
+### 🏢 Deloitte (HashedIn)
+**Software Development Engineer Intern**
 
----
+✔ Built 15+ REST APIs using Spring Boot & PostgreSQL
 
-### 🌱 I’m Currently Learning
+✔ Implemented JWT Authentication & RBAC
 
-- 🔐 Authentication (JWT, OAuth)
-- 🧠 Data Structures & Algorithms (for placement prep)
-- 🧑‍💼 System Design & Project Architecture
+✔ Developed scalable booking and payment workflows
 
----
-
-### 🎯 2025 Goals
-
-- ✅ Build 5+ Production-level MERN Projects  
-- 💼 Land a Frontend/Web Developer Role  
-- 🤝 Contribute to Open Source  
-- 🧪 Master DSA + System Design
+✔ Built Angular dashboards for analytics & monitoring
 
 ---
 
-**Thanks for visiting my profile! 🙏**
+# 🚀 Featured Projects
 
-> _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
+### 🏘️ FindMyFlat
+Flat Rental & Roommate Finder Platform
+
+✨ JWT Authentication
+
+✨ Property Listings
+
+✨ Booking Workflows
+
+✨ Admin Moderation System
+
+**Tech:** MERN, Cloudinary, Tailwind CSS
 
 ---
 
+### 🗳️ Secure Online Voting System
+
+✨ Aadhaar Verification
+
+✨ One Person One Vote Validation
+
+✨ JWT Authentication
+
+✨ Real-time Vote Counting
+
+**Tech:** Node.js, Express.js, MongoDB
+
+---
+
+### 📝 Notes & Bookmark Manager
+
+✨ Authentication
+
+✨ Bookmark Organization
+
+✨ Search & Filtering
+
+✨ Responsive UI
+
+**Tech:** MERN, Next.js
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ranjan-18&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjan-18&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ranjan-18&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+🥇 600+ DSA Problems Solved
+
+🏆 Software Development Engineer Intern @ Deloitte
+
+🚀 Built Multiple Full Stack Projects
+
+💡 Strong in Problem Solving & Backend Development
+
+---
+
+# 🎯 2026 Goals
+
+✅ Become a Production-Level Full Stack Engineer
+
+✅ Master System Design
+
+✅ Contribute to Open Source
+
+✅ Build SaaS Products
+
+✅ Crack Top Product-Based Companies
+
+---
+
+<div align="center">
+
+### ⭐ "First, solve the problem. Then, write the code."
+
+Thanks for visiting my profile ❤️
+
+</div>
