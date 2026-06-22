@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hey there! 👋 I'm Ranjan Kumar
+# 👋 Hey there! I'm Ranjan Kumar
 
-### Software Development Engineer Intern @ Deloitte | Full Stack Developer | Problem Solver
+### MERN Stack Intern @ Gravitones | Former SDE Intern @ HashedIn by Deloitte | Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Scalable+Full+Stack+Applications;MERN+Stack+%7C+Spring+Boot+Developer;600%2B+DSA+Problems+Solved;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Building+Scalable+Full+Stack+Applications;MERN+Stack+Developer;Former+SDE+Intern+at+HashedIn+by+Deloitte;600%2B+DSA+Problems+Solved;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=ranjan-18&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views"/>
 
@@ -16,18 +16,23 @@
 
 🎓 B.Tech in Computer Engineering @ IIIT Bhubaneswar (2022 - 2026)
 
-💼 Software Development Engineer Intern @ Deloitte
+💼 MERN Stack Intern @ Gravitones
 
-🌱 Currently exploring:
-- System Design
-- Spring Boot Microservices
-- Advanced DSA
-- Cloud & DevOps
+🏢 Former Software Development Engineer Intern @ HashedIn by Deloitte
 
-⚡ Fun Fact:
-- Solved **600+ DSA problems**
-- Passionate about building scalable web applications
-- Love transforming ideas into products
+🌱 Currently Exploring
+
+* System Design
+* Spring Boot & Microservices
+* Advanced Data Structures & Algorithms
+* Cloud & DevOps
+
+⚡ Fun Facts
+
+* 🔥 Solved **600+ DSA Problems**
+* 🚀 Built Multiple Full Stack Applications
+* 💡 Passionate About Scalable Systems
+* 🌍 Open to Software Engineering Opportunities
 
 ---
 
@@ -38,12 +43,12 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/ranjan-mern-dev/">
+<a href="https://www.linkedin.com/in/ranjan-mern-dev">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/ranjan-18">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
@@ -52,21 +57,25 @@
 # 💻 Tech Stack
 
 ### Frontend
+
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux" />
 </p>
 
 ### Backend
+
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
 </p>
 
 ### Database
+
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
 </p>
 
 ### Tools & Platforms
+
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,netlify" />
 </p>
@@ -75,22 +84,33 @@
 
 # 💼 Experience
 
-### 🏢 Deloitte (HashedIn)
-**Software Development Engineer Intern**
+## 🚀 Gravitones
 
-✔ Built 15+ REST APIs using Spring Boot & PostgreSQL
+### MERN Stack Intern | Present
 
-✔ Implemented JWT Authentication & RBAC
+* Building scalable full-stack web applications using MongoDB, Express.js, React, and Node.js
+* Developing RESTful APIs and backend services
+* Implementing authentication and authorization systems
+* Collaborating on production-grade projects
 
-✔ Developed scalable booking and payment workflows
+---
 
-✔ Built Angular dashboards for analytics & monitoring
+## 🏢 HashedIn by Deloitte
+
+### Software Development Engineer Intern
+
+* Built **15+ REST APIs** using Spring Boot & PostgreSQL
+* Implemented JWT Authentication & RBAC
+* Developed scalable booking and payment workflows
+* Built analytics dashboards and monitoring systems
+* Participated in code reviews and Agile development
 
 ---
 
 # 🚀 Featured Projects
 
 ### 🏘️ FindMyFlat
+
 Flat Rental & Roommate Finder Platform
 
 ✨ JWT Authentication
@@ -113,7 +133,7 @@ Flat Rental & Roommate Finder Platform
 
 ✨ JWT Authentication
 
-✨ Real-time Vote Counting
+✨ Real-Time Vote Counting
 
 **Tech:** Node.js, Express.js, MongoDB
 
@@ -137,9 +157,9 @@ Flat Rental & Roommate Finder Platform
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ranjan-18&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ranjan-18&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjan-18&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjan-18&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -149,7 +169,7 @@ Flat Rental & Roommate Finder Platform
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ranjan-18&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=ranjan-18&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -157,13 +177,15 @@ Flat Rental & Roommate Finder Platform
 
 # 🏆 Achievements
 
-🥇 600+ DSA Problems Solved
+🥇 Solved **600+ DSA Problems**
 
-🏆 Software Development Engineer Intern @ Deloitte
+🚀 MERN Stack Intern @ Gravitones
 
-🚀 Built Multiple Full Stack Projects
+🏢 Former SDE Intern @ HashedIn by Deloitte
 
-💡 Strong in Problem Solving & Backend Development
+💻 Built Multiple Full Stack Applications
+
+🎯 Strong Foundation in DSA, OOPs, DBMS & System Design
 
 ---
 
@@ -185,6 +207,6 @@ Flat Rental & Roommate Finder Platform
 
 ### ⭐ "First, solve the problem. Then, write the code."
 
-Thanks for visiting my profile ❤️
+❤️ Thanks for visiting my profile!
 
 </div>
