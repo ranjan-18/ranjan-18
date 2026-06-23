@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ranjan Kumar
 
-### 🚀 MERN Stack Intern @ Gravitones | Full Stack Developer | Problem Solver
+### MERN Stack Intern @ Gravitones | Former SDE Intern @ HashedIn by Deloitte | Full Stack Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Building+Scalable+Web+Applications;600%2B+DSA+Problems+Solved;MERN+Stack+Enthusiast;Exploring+System+Design+and+Cloud;Always+Learning+Always+Building" />
 
@@ -19,6 +19,10 @@
 # 💫 About Me
 
 🎓 B.Tech in Computer Engineering @ **IIIT Bhubaneswar** (2022 - 2026)
+
+💼 Mern Stack Intern @ Gravitones
+
+🏢 Former Software Development Engineer Intern @ HashedIn by Deloitte
 
 💻 Passionate Full Stack Developer focused on building scalable and impactful applications
 
