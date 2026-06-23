@@ -16,8 +16,6 @@
 
 🎓 B.Tech in Computer Engineering @ IIIT Bhubaneswar (2022 - 2026)
 
-💼 MERN Stack Intern @ Gravitones
-
 🏢 Former Software Development Engineer Intern @ HashedIn by Deloitte
 
 🌱 Currently Exploring
@@ -83,17 +81,6 @@
 ---
 
 # 💼 Experience
-
-## 🚀 Gravitones
-
-### MERN Stack Intern | Present
-
-* Building scalable full-stack web applications using MongoDB, Express.js, React, and Node.js
-* Developing RESTful APIs and backend services
-* Implementing authentication and authorization systems
-* Collaborating on production-grade projects
-
----
 
 ## 🏢 HashedIn by Deloitte
 
